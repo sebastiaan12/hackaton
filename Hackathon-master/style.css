@@ -1,0 +1,342 @@
+@import url('https://fonts.googleapis.com/css?family=Staatliches');
+
+
+
+*{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  scroll-behavior: smooth;
+  overflow: hidden;
+  text-shadow: 2px 2px 5px rgb(0,0,0,.3);
+}
+
+
+.content1{
+  height: 970px;
+  background-color: #4754B1;
+  color: #fff;
+}
+
+
+.content1 h1{
+  padding-top: 380px;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 2px;
+}
+
+.content1 p{
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 2px;
+  font-size: 20px;
+  display: block;
+  margin: auto;
+  width: 700px;
+}
+
+.content1 h2{
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 2px;
+  text-decoration: overline;
+}
+
+a{
+    font-family: 'Staatliches', cursive;
+    padding: 6px 12px;
+    background-color: rgba(0,0,0,.2);
+    text-decoration: none;
+    color: #fff;
+    transition: 0.5s;
+}
+
+a:hover{
+  background-color: rgba(0,0,0,.5);
+  transition: 0.5s;
+}
+
+
+.content2{
+  height: 970px;
+  background-color: #0074D9;
+  color: #fff;
+}
+
+.content2 h1{
+  padding-top: 380px;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 2px;
+}
+
+.content2 p{
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 2px;
+  font-size: 20px;
+  display: block;
+  margin: auto;
+  width: 700px;
+}
+
+.content2 h2{
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 2px;
+  text-decoration: overline;
+}
+
+/* --content3-- */
+
+.content3{
+  height: 970px;
+  background-color: #7FDBFF;
+  color: #000;
+}
+
+.content3 h1{
+  padding-top: 380px;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 2px;
+}
+
+.content3 p{
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 2px;
+  font-size: 20px;
+  display: block;
+  margin: auto;
+  width: 700px;
+}
+
+.content3 h2{
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 2px;
+  text-decoration: overline;
+}
+
+/* --content4-- */
+
+.content4{
+  height: 970px;
+  background-color: #39CCCC;
+  color: #fff;
+}
+
+.content4 h1{
+  padding-top: 380px;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 2px;
+}
+
+.content4 p{
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 2px;
+  font-size: 20px;
+  display: block;
+  margin: auto;
+  width: 700px;
+}
+
+.content4 h2{
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 2px;
+  text-decoration: overline;
+}
+
+/* --content5-- */
+
+.content5{
+  color: #fff;
+  height: 970px;
+  background-color: #3D9970;
+}
+
+.content5 h1{
+  padding-top: 380px;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 2px;
+}
+
+.content5 p{
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 2px;
+  font-size: 20px;
+  display: block;
+  margin: auto;
+  width: 700px;
+}
+
+.content5 h2{
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 2px;
+  text-decoration: overline;
+}
+
+/* --content6-- */
+
+.content6{
+  color: #fff;
+  height: 970px;
+  background-color: #2ECC40;
+}
+
+.content6 h1{
+  padding-top: 380px;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 2px;
+}
+
+.content6 p{
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 2px;
+  font-size: 20px;
+  display: block;
+  margin: auto;
+  width: 700px;
+}
+
+.content6 h2{
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 2px;
+  text-decoration: overline;
+}
+
+/* --content7-- */
+
+.content7{
+  height: 970px;
+  background-color: #01FF70;
+}
+
+.content7 h1{
+  padding-top: 380px;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 2px;
+}
+
+.content7 p{
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 2px;
+  font-size: 20px;
+  display: block;
+  margin: auto;
+  width: 700px;
+}
+
+.content7 h2{
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 2px;
+  text-decoration: overline;
+}
+
+/* --content8-- */
+
+.content8{
+  color: #000;
+  height: 970px;
+  background-color: #FFDC00;
+}
+
+.content8 h1{
+  padding-top: 380px;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 2px;
+}
+
+.content8 p{
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 2px;
+  font-size: 20px;
+  display: block;
+  margin: auto;
+  width: 700px;
+}
+
+.content8 h2{
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 2px;
+  text-decoration: overline;
+}
+
+/* --content9-- */
+
+.content9{
+  height: 970px;
+  background-color: #FF851B;
+}
+
+.content9 h1{
+  padding-top: 380px;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 2px;
+}
+
+.content9 p{
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 2px;
+  font-size: 20px;
+  display: block;
+  margin: auto;
+  width: 700px;
+}
+
+.content9 h2{
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 2px;
+  text-decoration: overline;
+}
+
+/* --content10-- */
+
+.content10{
+  color: #fff;
+  height: 970px;
+  background-color: #D64038;
+}
+
+.content10 h1{
+  padding-top: 380px;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 2px;
+}
+
+.content10 p{
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 2px;
+  font-size: 20px;
+  display: block;
+  margin: auto;
+  width: 700px;
+}
+
+.content10 h2{
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 2px;
+  text-decoration: overline;
+}
+
+/* --content11-- */
+
+.content11{
+  color: #fff;
+  height: 970px;
+  background-color: #FF4136;
+}
+
+.content11 h1{
+  padding-top: 380px;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 2px;
+}
+
+.content11 p{
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 2px;
+  font-size: 20px;
+  display: block;
+  margin: auto;
+  width: 700px;
+}
+
+.content11 h2{
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 2px;
+  text-decoration: overline;
+}
